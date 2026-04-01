@@ -64,7 +64,7 @@ Bank-Management-System/
 ### 🔹 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bank-management-system.git
+git clone https://github.com/pusphraj-verma/bank-management-system.git
 cd bank-management-system
 ```
 
