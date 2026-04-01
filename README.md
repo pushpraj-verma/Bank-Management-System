@@ -22,7 +22,7 @@ A desktop-based banking application built using **Java, Swing, and JDBC** that a
 **Frontend:**
 
 * Java Swing
-* AWT
+
 
 **Backend:**
 
